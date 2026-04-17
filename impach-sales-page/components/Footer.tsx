@@ -54,17 +54,17 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3">
               <li>
-                <a href="https://wa.link/olf8w" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
+                <a href="https://wa.link/olf8wz" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
                   <MapPin className="w-4 h-4 flex-shrink-0" /> IMPACH Bangi
                 </a>
               </li>
               <li>
-                <a href="https://wa.link/6km1d7" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
+                <a href="https://wa.link/jvl67i" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
                   <MapPin className="w-4 h-4 flex-shrink-0" /> IMPACH Kajang
                 </a>
               </li>
               <li>
-                <a href="https://wa.link/k1ubg8" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
+                <a href="https://wa.link/8vegsp" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
                   <MapPin className="w-4 h-4 flex-shrink-0" /> IMPACH Semenyih
                 </a>
               </li>
@@ -83,7 +83,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://wa.link/olf8w" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
+                <a href="https://wa.link/olf8wz" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm transition-colors flex items-center gap-2">
                   <MessageCircle className="w-4 h-4 flex-shrink-0" /> WhatsApp Kami
                 </a>
               </li>

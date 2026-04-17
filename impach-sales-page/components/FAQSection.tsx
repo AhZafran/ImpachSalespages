@@ -82,7 +82,7 @@ export default function FAQSection() {
         <div className="mt-12 text-center">
           <p className="text-gray-600 mb-4">Masih ada soalan?</p>
           <a
-            href="https://wa.link/olf8w"
+            href="https://wa.link/olf8wz"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#1fb855] text-white font-semibold px-6 py-3 rounded-full transition-all shadow-md"

@@ -6,19 +6,19 @@ const branches = [
     name: "IMPACH Bangi",
     image: "/lokasiKami/impachbangi.webp",
     address: "42, Jalan 7/7A, Seksyen 7, 43650 Bandar Baru Bangi, Selangor",
-    whatsapp: "https://wa.link/olf8w",
+    whatsapp: "https://wa.link/olf8wz",
   },
   {
     name: "IMPACH Kajang",
     image: "/lokasiKami/impachkajang.webp",
     address: "Kajang, Selangor",
-    whatsapp: "https://wa.link/6km1d7",
+    whatsapp: "https://wa.link/jvl67i",
   },
   {
     name: "IMPACH Semenyih",
     image: "/lokasiKami/impachsemenyih.webp",
     address: "Semenyih, Selangor",
-    whatsapp: "https://wa.link/k1ubg8",
+    whatsapp: "https://wa.link/8vegsp",
   },
 ];
 

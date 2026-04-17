@@ -29,7 +29,7 @@ export default function HeroSection() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 animate-fade-in-up">
           <a
-            href="https://wa.link/olf8w"
+            href="https://wa.link/olf8wz"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#1fb855] text-white font-bold px-8 py-4 rounded-full text-lg transition-all duration-200 shadow-lg hover:shadow-xl animate-pulse-button"
