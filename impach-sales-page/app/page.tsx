@@ -8,6 +8,7 @@ import AboutSection from "@/components/AboutSection";
 import OffersSection from "@/components/OffersSection";
 import WhyChooseUsSection from "@/components/WhyChooseUsSection";
 import TestimonialSection from "@/components/TestimonialSection";
+import MajlisApresiasiSection from "@/components/MajlisApresiasiSection";
 import LocationSection from "@/components/LocationSection";
 import FAQSection from "@/components/FAQSection";
 import Footer from "@/components/Footer";
@@ -40,6 +41,7 @@ export default function Home() {
         <OffersSection />
         <WhyChooseUsSection />
         <TestimonialSection />
+        <MajlisApresiasiSection />
         <LocationSection />
         <FAQSection />
       </main>
